@@ -20,4 +20,7 @@ public class story {
         }
     }
 
+    public void storySaveInterrupt(){
+
+    }
 }

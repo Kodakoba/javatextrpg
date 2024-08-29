@@ -1,9 +1,8 @@
 import java.util.Scanner;
-public class mainMenu implements menu{
-    int selection;
 
+public class characterCreationMenu implements menu {
     public int displayOptions(){
-        System.out.println("MAIN MENU");
+        System.out.println("Character creation MENU");
         return 0;
     }
     public String getInput(){
